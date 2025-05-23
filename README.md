@@ -3,6 +3,7 @@
 ### A minimalist Unix shell
 
 This project is a simplified unix shell written in C, implementing basic command execution, pipes, redirections, and environment management—similar to `bash`.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Features
