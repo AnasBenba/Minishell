@@ -2,9 +2,6 @@
 
 ### A minimalist Unix shell
 
-42 School
-GitHub contributors
-
 This project is a simplified **Unix shell** written in C, implementing basic command execution, pipes, redirections, and environment management—similar to **`bash`**.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
