@@ -71,7 +71,6 @@ This project was developed by:
 |-----------------------|-----------------|----------------------------------------------------|
 |   **Anas Benba**	    |   **abenba**	  |     **[Google]https://github.com/AnasBenba**       | 
 |   **Zoubair Entifi**  |	**zoentifi**  |  	**[Google]https://github.com/zombieB0Y**       | 
-|                       |                 |                                                    | 
 
 
 ## 📜 License
