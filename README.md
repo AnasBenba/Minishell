@@ -68,10 +68,8 @@ make fclean # Full clean (remove executable)
 This project was developed by:
 
 |   **Name**	        |   **1337 Login**|     **GitHub**                                     |
-|                       |                 |                                                    |
 |-----------------------|-----------------|----------------------------------------------------|
 |   **Anas Benba**	    |   **abenba**	  |     **[Google]https://github.com/AnasBenba**       | 
-|                       |                 |                                                    |
 |   **Zoubair Entifi**  |	**zoentifi**  |  	**[Google]https://github.com/zombieB0Y**       | 
 |                       |                 |                                                    | 
 
