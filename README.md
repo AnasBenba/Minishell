@@ -67,7 +67,7 @@ make fclean # Full clean (remove executable)
 
 This project was developed by:
 
-**Name**	**1337 Login**	**GitHub**
+**Name**	          **1337 Login**	            **GitHub**
 
 -----------------------------------------
 **Anas Benba**	**abenba**	**[Google]https://github.com/AnasBenba**
@@ -76,8 +76,6 @@ This project was developed by:
 **Zoubair Entifi**	**zoentifi**	**[Google]https://github.com/zombieB0Y**
 
 -----------------------------------------
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 License
 
