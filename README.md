@@ -2,7 +2,7 @@
 
 ### A minimalist Unix shell
 
-This project is a simplified unix shell written in C, implementing basic command execution, pipes, redirections, and environment management—similar to `bash`.
+This project is a simplified **unix shell** written in C, implementing basic command execution, pipes, redirections, and environment management—similar to **`bash`**.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,6 +29,7 @@ This project is a simplified unix shell written in C, implementing basic command
 ✅ **Signal handling** (**`Ctrl-C`**, **`Ctrl-D`**, **`Ctrl-\`**)
 ✅ **Environment variables** (**`$PATH`**, **`$HOME`**, etc.)
 ✅ **Error handling** (syntax errors, command not found)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Installation & Usage
@@ -47,6 +48,7 @@ make fclean # Full clean (remove executable)
 ./minishell
 ```
 (Exit with **`exit`** or **`Ctrl-D`**.)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 Technical Details
@@ -58,6 +60,7 @@ make fclean # Full clean (remove executable)
 **Signals**: Handles **`SIGINT`** (Ctrl-C) and **`SIGQUIT`** (Ctrl-).
 
 **Memory**: No leaks (checked with **`valgrind`**).
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👥 Team
@@ -70,6 +73,7 @@ This project was developed by:
 -----------------------------------------
 **Zoubair Entifi**	**zoentifi**	**[Google]https://github.com/zombieB0Y**
 -----------------------------------------
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 License
