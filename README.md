@@ -57,9 +57,9 @@ make fclean # Full clean (remove executable)
 
 - **Execution**: Uses **`fork()`**, **`execve()`**, and **`waitpid()`**.
 
-**Signals**: Handles **`SIGINT`** (Ctrl-C) and **`SIGQUIT`** (Ctrl-).
+- **Signals**: Handles **`SIGINT`** (Ctrl-C) and **`SIGQUIT`** (Ctrl-).
 
-**Memory**: No leaks (checked with **`valgrind`**).
+- **Memory**: No leaks (checked with **`valgrind`**).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,10 +68,13 @@ make fclean # Full clean (remove executable)
 This project was developed by:
 
 **Name**	**1337 Login**	**GitHub**
+
 -----------------------------------------
 **Anas Benba**	**abenba**	**[Google]https://github.com/AnasBenba**
+
 -----------------------------------------
 **Zoubair Entifi**	**zoentifi**	**[Google]https://github.com/zombieB0Y**
+
 -----------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
